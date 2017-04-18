@@ -24,6 +24,12 @@ Download filename
 
 then check it in one step:
 ```shell
-sha256Ex <filename> <checksum as published on web site>
+./sha256Ex.sh <filename> <checksum as published on web site>
 ```
+
+example:
+```shell
+./sha256Ex.sh kicad_4.0.2+dfsg1-4.debian.tar.xz  000c2b649f2649f6cc9e1fae0eb82530dd66fc95a9393b3d1a4af8687333212f
+```
+
 
