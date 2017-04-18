@@ -19,8 +19,10 @@ command passing as parameters the file and expected checksum with a color
 result OK in green(match) or NOK in red (corrupted).
 
 Usage: 
+
 Download filename 
-then check it in one step
+
+then check it in one step:
 ```shell
 sha256Ex <filename> <checksum as published on web site>
 ```
