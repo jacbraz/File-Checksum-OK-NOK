@@ -33,9 +33,9 @@ example:
 ```
 
 Download file match: 
-![alt text](/images/checksum-example-OK.png "Match")
+![Match image](/images/checksum-example-OK.png "Match")
 
 
 Download file is corrupted: 
-![alt text](/images/checksum-example-NOK.png "Corrupted")
+![Corruped image](/images/checksum-example-NOK.png "Corrupted")
 
