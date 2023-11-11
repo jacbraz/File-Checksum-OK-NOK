@@ -1,7 +1,7 @@
 #!/bin/bash
-# Validate direct in command line, doesnt use file with hash values. 
+# Validate file hash direct in command line, doesnt use file with hash values. 
 #
-# Usage: ./sha256Ex.sh fileName <SHA-256 value has in website>
+# Usage: ./sha256Ex.sh fileName <SHA-256 value as listed in website>
 # -----------------------------------------------------------------------------
 
 # ANSY escape color codes
