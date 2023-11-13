@@ -1,6 +1,6 @@
 #!/bin/bash
 # Validate file hash direct in command line, doesnt use file with hash values. 
-#
+#   FAKE FAKE but a test
 # Usage: ./sha256Ex.sh fileName <SHA-256 value as listed in website>
 # -----------------------------------------------------------------------------
 
